@@ -1,2 +1,20 @@
-# Lasso-Regression-Project
-This project demonstrates the implementation of Lasso Regression to predict student scores based on hours studied. It includes data visualization, normalization, model training, and evaluation. The dataset consists of hours studied and corresponding scores. The model achieves high accuracy with an R² score of 0.97 on the test set.
+# Lasso Regression Project
+
+This project demonstrates the use of Lasso Regression to predict student scores based on the number of study hours.
+
+## Dataset
+
+The dataset contains two columns:
+- Hours: Number of hours studied
+- Scores: Percentage score
+
+## Files
+
+- `Lasso_Regression_Project.ipynb`: Jupyter notebook containing the code for data analysis, visualization, and model implementation.
+- `Data.csv`: Dataset used for training and testing the model.
+
+## Usage
+
+To run the project, ensure you have the necessary libraries installed:
+
+
